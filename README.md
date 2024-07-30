@@ -1,4 +1,4 @@
-# Air Quality Analysis In India
+# Ai
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/66513b9c-3426-496f-b43c-fb76adf74ad9?experience=power-bi
 
@@ -28,18 +28,12 @@ Data Visualization: Create interactive dashboards and visualizations in Power BI
 
 # Snapshot of Dashboard (Power BI Service)
 
-![Screenshot 2024-07-30 115806](https://github.com/user-attachments/assets/f05b0c64-bde4-4e7b-af92-19472ed65699)
 
-![Screenshot 2024-07-30 115956](https://github.com/user-attachments/assets/2273f2e8-c698-493c-a070-03b9274c9cea)
 
  
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Screenshot 2024-07-30 120147](https://github.com/user-attachments/assets/f468c7c9-dd4f-42ab-9ba7-d51ef5d90048)
-
-![Screenshot 2024-07-30 120258](https://github.com/user-attachments/assets/eec78a77-a25f-4dbe-ba74-5c3a0c9dd69f)
-
 
 
 ## Conclusion
